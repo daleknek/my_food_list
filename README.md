@@ -1,1 +1,2 @@
-# Coursework no.2 for Mobile Application Development
+# Food List
+Coursework no.2 for Mobile Application Development
